@@ -27,27 +27,7 @@ o	Both – files + folders
 •	Supports scheduling via Task Scheduler
 •	Clear versioning + documentation pack
 ________________________________________
-📂 Repository Structure
-WinFS_InventoryCSV/
-│
-├── src/
-│   ├── WinFS_InventoryCSV_V1.0.vbs
-│   └── WinFS_InventoryCSV_V1.0.config
-│
-├── docs/
-│   ├── 1_StarterKit/
-│   ├── 2_Management/
-│   ├── 3_Admin/
-│   ├── 4_Developer/
-│   └── 5_Testing/
-│
-├── samples/
-│   ├── sample_output.csv
-│   └── sample_log.csv
-│
-├── CHANGELOG.md
-└── README.md   ← (this file)
-________________________________________
+
 🛠️ How to Use
 1️⃣ Place script + config in the same folder
 WinFS_InventoryCSV_V1.0.vbs  
@@ -141,7 +121,7 @@ Submit:
 GitHub Issues tab → “New Issue”
 ________________________________________
 📝 License
-MIT License (or the license you choose)
+MIT License
 ________________________________________
 📬 Contact
 For technical queries:
