@@ -1,1 +1,7 @@
-
+SlNo,ItemType,FullPath,Name,Extension,ParentFolder,SizeBytes,CreatedDate,ModifiedDate,Attributes
+1,File,"C:\Temp\Tools\WinFS_InventoryCSV_V0.4.config","WinFS_InventoryCSV_V0.4.config","config","C:\Temp\Tools",307,"11/19/2025 8:26:23 PM","11/19/2025 8:21:32 PM",32
+2,File,"C:\Temp\Tools\WinFS_InventoryCSV_V0.4.vbs","WinFS_InventoryCSV_V0.4.vbs","vbs","C:\Temp\Tools",10172,"11/19/2025 8:26:23 PM","11/19/2025 8:19:48 PM",32
+3,File,"C:\Temp\Tools\Output\WinFS_InventoryCSV_V0.4.config","WinFS_InventoryCSV_V0.4.config","config","C:\Temp\Tools\Output",307,"11/19/2025 8:26:23 PM","11/19/2025 8:21:32 PM",32
+4,File,"C:\Temp\Tools\Output\WinFS_InventoryCSV_V0.4.vbs","WinFS_InventoryCSV_V0.4.vbs","vbs","C:\Temp\Tools\Output",10172,"11/19/2025 8:26:23 PM","11/19/2025 8:19:48 PM",32
+5,File,"C:\Temp\Tools\Output\WS-104124-LP_FSInventory_20251119_203402.csv","WS-104124-LP_FSInventory_20251119_203402.csv","csv","C:\Temp\Tools\Output",1203,"11/19/2025 8:34:02 PM","11/19/2025 8:34:02 PM",32
+6,File,"C:\Temp\Tools\Output\WS-104124-LP_FSInventory_20251119_203648.csv","WS-104124-LP_FSInventory_20251119_203648.csv","csv","C:\Temp\Tools\Output",1067,"11/19/2025 8:36:48 PM","11/19/2025 8:54:28 PM",32
